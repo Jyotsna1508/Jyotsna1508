@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Jyotsna1508
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jyotsna1508/Jyotsna1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Jyotsna Swasti
+I m working as full stack developer with 9 years of experience in Angular and 3+ in React and Node.js.
+I also have knowledge of tailwind.css, typescript and javascript
+I also have knowldege of unit testing using Jasmine and Karma.
